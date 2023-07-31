@@ -1,0 +1,13 @@
+# conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch 
+backtrace==0.2.1
+librosa==0.9.2
+mir-eval==0.6
+numpy==1.23.5
+pretty-midi==0.2.9
+pytorch-lightning==1.0.4
+torchsummary==1.5.1
+tqdm==4.64.1
+librosa
+immutabledict==2.2.3
+pypianoroll==1.0.4
+wandb
