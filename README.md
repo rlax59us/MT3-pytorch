@@ -1,4 +1,4 @@
-## MT3-pytorch for MAESTRO dataset
+# MT3-pytorch for MAESTRO dataset
 
 This is an unofficial implementation of [SEQUENCE-TO-SEQUENCE PIANO TRANSCRIPTION WITH TRANSFORMERS](https://arxiv.org/abs/2107.09142v1) in pytorch.
 
