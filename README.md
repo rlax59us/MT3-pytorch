@@ -1,6 +1,6 @@
 # MT3-pytorch for MAESTRO dataset
 
-Now, this is an unofficial implementation of [SEQUENCE-TO-SEQUENCE PIANO TRANSCRIPTION WITH TRANSFORMERS](https://arxiv.org/abs/2107.09142v1) in pytorch.
+Now, this is an unofficial implementation of MT3 for single track([SEQUENCE-TO-SEQUENCE PIANO TRANSCRIPTION WITH TRANSFORMERS](https://arxiv.org/abs/2107.09142v1)) in pytorch.
 
 Converted original model code in [MT3 repository](https://github.com/magenta/mt3/tree/main) from jax to pytorch.
 
