@@ -6,6 +6,6 @@ class data_config:
     inst_filename = "inst_names.json"
     audio_filename = "mix.flac"
     cpt_path = "cpt/"
-    mel_length = 256
+    mel_length = 512
     event_length = 1024
     include_ties = True
